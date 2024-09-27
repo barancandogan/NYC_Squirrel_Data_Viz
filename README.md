@@ -44,3 +44,6 @@ The plot aids in understanding the behavior and movement of squirrels within the
 
 
 ![NYC Squirrel Insight](images/insight_first.PNG)
+
+
+### THIS SECTION GOING TO BE UPDATED!
