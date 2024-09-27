@@ -13,12 +13,16 @@ The Squirrel Census (https://www.thesquirrelcensus.com/) is a multimedia science
 - 📊 **Squirrel Statistics**: View statistical summaries of squirrel sightings and behaviors.
 - 🔥 **Heatmap**: Toggle a heatmap view to see squirrel concentration across the park.
 
-## 📁 **Dataset**
-
-The project uses the[ **2018 Central Park Squirrel Census** dataset](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw). The dataset provides detailed information on squirrel sightings, including geographic locations, behaviors, and fur colors.
 
 ## 🛠️ **Lybraries Used**
 
 - **Pandas**: For data cleaning and analysis
 - **Matplotlib**: For plotting squirrel sightings
 - **Folium**: For generating interactive maps
+  
+## 📁 **Dataset**
+
+The project uses the[ **2018 Central Park Squirrel Census** dataset](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw). The dataset provides detailed information on squirrel sightings, including geographic locations, behaviors, and fur colors.
+
+The image below shows a detailed view of the NYC Squirrel Census dataset, which comprises 31 columns. Each column captures various attributes or behavioral aspects of squirrels observed in Central Park, New York City.
+![NYC Squirrel Dataset Info](images/dataset_desc.PNG)
