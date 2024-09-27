@@ -32,4 +32,15 @@ The project uses the[ **2018 Central Park Squirrel Census** dataset](https://dat
 The image below shows a detailed view of the NYC Squirrel Census dataset, which comprises 31 columns. Each column captures various attributes or behavioral aspects of squirrels observed in Central Park, New York City.
 ![NYC Squirrel Dataset Info](images/dataset_desc.PNG)
 
+# Squirrel Sightings in NYC Central Park
 
+This scatter plot shows squirrel sightings in NYC Central Park. Each blue dot on the graph represents the geographic coordinates (latitude and longitude) of a squirrel sighting recorded in the park. The plot is designed to visualize the spatial distribution of these sightings, allowing us to see where squirrels are commonly found within the park.
+
+## Purpose of the Plot
+
+### Geographic Distribution
+The main reason for creating this plot is to show how squirrel sightings are spread across Central Park. It helps to identify areas of high activity or areas where sightings are less frequent.
+The plot aids in understanding the behavior and movement of squirrels within the park. For example, areas with a dense cluster of dots indicate places where squirrels are more likely to be found.
+
+
+![NYC Squirrel Insight](images/insight_first.PNG)
